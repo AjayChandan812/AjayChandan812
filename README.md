@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">"Functional Tester Specializing in Selenium WebDriver & Eclipse | Expert in End-to-End Automation"</p>
+<h2 align="left">"Functional Tester Specializing in Selenium WebDriver & Eclipse | Expert in End-to-End Automation"</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">✨ I am a dedicated and results-oriented Software Tester with a strong passion for delivering high-quality software solutions. With extensive experience in both manual and automated testing, I ensure that the applications I test meet rigorous standards of functionality, performance, and usability. My goal is to identify issues early in the development cycle to help deliver products that are reliable, efficient, and user-friendly.</h3>
+<h4 align="left">✨ I am a dedicated and results-oriented Software Tester with a strong passion for delivering high-quality software solutions. With extensive experience in both manual and automated testing, I ensure that the applications I test meet rigorous standards of functionality, performance, and usability. My goal is to identify issues early in the development cycle to help deliver products that are reliable, efficient, and user-friendly.</h4>
 
 ###
 
